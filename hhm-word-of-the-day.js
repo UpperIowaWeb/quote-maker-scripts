@@ -19,7 +19,23 @@ textarray[26] = "¿Cómo estás? = How are you?<br>Estoy bien, gracias = I'm wel
 textarray[27] = "¿Qué…? — What…?<br>¿Quién…? — Who…<br>?¿Cuándo…? — When…?<br>¿Cuál…? — Which…?<br>¿Cómo…? — How…?<br>Dónde…? — Where…?<br>¿Por qué…? — Why…?";
 textarray[28] = "Sí — Yes.<br>?No — No.<br>?Tal vez — Maybe.<br>?Nunca = Never<br>?A veces = Sometimes<br>?Claro = Of course<br>?¡Sin problema! — No problem!. Spanish people usually add “claro” at the end.<br>?No lo sé — I don’t know!";
 textarray[29] = "Disculpa. ¿Dónde está el baño? = Excuse me. Where is the bathroom?";
-textarray[30] = "¿Qué hora es? Or ¿Qué hora tienes? – What time is it?= What time is it?";
+textarray[30] = "¿Qué hora es? Or ¿Qué hora tienes? - What time is it?= What time is it?";
+textarray[1] = "¿Cómo se dice 'concert' en español? = How do you say 'concert' in Spanish?";
+textarray[2] = "¿Qué es esto? - What is this?";
+textarray[3] = "¿Dónde puedo comprar…? - Where can I buy…?";
+textarray[4] = "Estoy perdido/a = I am lost";
+textarray[5] = "Yo no comprendo = I do not understand <br> No entiendo. ¿Puedes repetirlo por favor? = I don't understand! Could you please repeat it?";
+textarray[6] = "Por favor, habla más despacio = Would you speak slower, please";
+textarray[7] = "No Me Acuerdo = I don't remember";
+textarray[8] = "¿Qué significa? = What does… mean?";
+textarray[9] = "¿De dónde viene? = Where are you from? <br> Soy de Nueva York = I'm from New York";
+textarray[10] = "No hablo español — I don't speak Spanish <br>Mi español no es bueno — My Spanish isn't very good.";
+textarray[11] = "¿Tienes hermanos o hermanas? - Do you have brothers or sisters? <br> No, soy hijo único - No, I am an only child<br>	Sí, tengo dos hermanas mayores - Yes, I have two older sisters <br> Sí, tengo un hermano menor - Yes, I have one younger brother";
+textarray[12] = "¡Feliz Cumpleaños! - Happy Birthday!";
+textarray[13] = "Te extraño = I miss you";
+textarray[14] = "= Te quiero = I love you";
+textarray[15] = "Saying goodbye in Spanish <br> Adiós - Goodbye <br> ¡Buenas noches! - Goodnight! <br> ¡Hasta luego! - See you later! <br> ¡Hasta pronto! - See you soon! <br> ¡Hasta mañana! - See you tomorrow! <br> Nos vemos - See you";
+
 
 
 
