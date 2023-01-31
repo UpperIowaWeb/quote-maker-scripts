@@ -20,7 +20,7 @@ textarray[27] = "¿Qué…? — What…?<br>¿Quién…? — Who…<br>?¿Cuánd
 textarray[28] = "Sí — Yes.<br>?No — No.<br>?Tal vez — Maybe.<br>?Nunca = Never<br>?A veces = Sometimes<br>?Claro = Of course<br>?¡Sin problema! — No problem!. Spanish people usually add “claro” at the end.<br>?No lo sé — I don’t know!";
 textarray[29] = "Disculpa. ¿Dónde está el baño? = Excuse me. Where is the bathroom?";
 textarray[30] = "¿Qué hora es? Or ¿Qué hora tienes? - What time is it?= What time is it?";
-textarray[1] = "¿Cómo se dice 'concert' en español? = How do you say 'concert' in Spanish?";
+textarray[31] = "¿Cómo se dice 'concert' en español? = How do you say 'concert' in Spanish?";
 textarray[2] = "¿Qué es esto? - What is this?";
 textarray[3] = "¿Dónde puedo comprar…? - Where can I buy…?";
 textarray[4] = "Estoy perdido/a = I am lost";
