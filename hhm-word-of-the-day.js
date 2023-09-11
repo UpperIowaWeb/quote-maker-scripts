@@ -3,6 +3,7 @@ function chgDailyTxt()
 {
 
 var textarray = new Array();
+textarray[11] = "Hispanic Heritage Month Word of the Day begins September 15!";
 textarray[14] = "Hispanic Heritage Month Word of the Day begins September 15!";
 textarray[15] = "¡Hola! — Hello!";
 textarray[16] = "Buenos días = Good morning <br>Buenas tardes = Good afternoon<br> Buenas noches = Good evening";
@@ -21,6 +22,7 @@ textarray[28] = "Sí — Yes.<br>?No — No.<br>?Tal vez — Maybe.<br>?Nunca = 
 textarray[29] = "Disculpa. ¿Dónde está el baño? = Excuse me. Where is the bathroom?";
 textarray[30] = "¿Qué hora es? Or ¿Qué hora tienes? - What time is it?= What time is it?";
 textarray[31] = "¿Cómo se dice 'concert' en español? = How do you say 'concert' in Spanish?";
+/*
 textarray[2] = "¿Qué es esto? - What is this?";
 textarray[3] = "¿Dónde puedo comprar…? - Where can I buy…?";
 textarray[4] = "Estoy perdido/a = I am lost";
@@ -35,7 +37,7 @@ textarray[12] = "¡Feliz Cumpleaños! - Happy Birthday!";
 textarray[13] = "Te extraño = I miss you";
 textarray[14] = "= Te quiero = I love you";
 textarray[15] = "Saying goodbye in Spanish <br> Adiós - Goodbye <br> ¡Buenas noches! - Goodnight! <br> ¡Hasta luego! - See you later! <br> ¡Hasta pronto! - See you soon! <br> ¡Hasta mañana! - See you tomorrow! <br> Nos vemos - See you";
-
+*/
 
 
 
