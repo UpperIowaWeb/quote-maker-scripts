@@ -4,6 +4,8 @@ function chgDailyTxt()
 
 var textarray = new Array();
 textarray[11] = "Hispanic Heritage Month Word of the Day begins September 15!";
+textarray[12] = "Hispanic Heritage Month Word of the Day begins September 15!";
+textarray[13] = "Hispanic Heritage Month Word of the Day begins September 15!";
 textarray[14] = "Hispanic Heritage Month Word of the Day begins September 15!";
 textarray[15] = "¡Hola! — Hello!";
 textarray[16] = "Buenos días = Good morning <br>Buenas tardes = Good afternoon<br> Buenas noches = Good evening";
