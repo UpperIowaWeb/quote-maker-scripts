@@ -24,7 +24,7 @@ textarray[28] = "Sí — Yes.<br>?No — No.<br>?Tal vez — Maybe.<br>?Nunca = 
 textarray[29] = "Disculpa. ¿Dónde está el baño? = Excuse me. Where is the bathroom?";
 textarray[30] = "¿Qué hora es? Or ¿Qué hora tienes? - What time is it?= What time is it?";
 textarray[31] = "¿Cómo se dice 'concert' en español? = How do you say 'concert' in Spanish?";
-tarray[2] = "¿Qué es esto? - What is this?";
+textarray[2] = "¿Qué es esto? - What is this?";
 textarray[3] = "¿Dónde puedo comprar…? - Where can I buy…?";
 textarray[4] = "Estoy perdido/a = I am lost";
 textarray[5] = "Yo no comprendo = I do not understand <br> No entiendo. ¿Puedes repetirlo por favor? = I don't understand! Could you please repeat it?";
